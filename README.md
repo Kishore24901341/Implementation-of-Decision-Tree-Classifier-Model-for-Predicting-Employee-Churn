@@ -77,30 +77,27 @@ RegisterNumber:  212224240077
 ```
 
 ## Output:
-<img width="1031" height="183" alt="image" src="https://github.com/user-attachments/assets/7fb49da4-6b3e-4a92-a74c-9bf94b8d3360" />
+<img width="1301" height="282" alt="image" src="https://github.com/user-attachments/assets/509dc1a3-f115-4797-a4ac-95929cb8261a" />
 
-<img width="1024" height="378" alt="image" src="https://github.com/user-attachments/assets/b617749b-ba75-4b51-b30f-9be1a1757616" />
+<img width="838" height="462" alt="image" src="https://github.com/user-attachments/assets/8c9e7185-c4dd-4997-8a45-d02536fbd2be" />
 
-<img width="1023" height="311" alt="image" src="https://github.com/user-attachments/assets/6d180dc9-8dac-4389-a4a0-ec5e7d39061c" />
+<img width="330" height="288" alt="image" src="https://github.com/user-attachments/assets/781875ca-ec22-4940-bd39-c5566369184b" />
 
+<img width="364" height="142" alt="image" src="https://github.com/user-attachments/assets/ecec5ff1-3e9d-45d9-bd48-d5192ab576db" />
 
-<img width="609" height="127" alt="image" src="https://github.com/user-attachments/assets/fc800921-91aa-45ed-94ef-9e9a26982213" />
+<img width="1286" height="230" alt="image" src="https://github.com/user-attachments/assets/a968ad96-b413-4951-8d79-f37823f308bc" />
 
+<img width="1328" height="269" alt="image" src="https://github.com/user-attachments/assets/d335d083-6315-46ec-b979-b268a18af368" />
 
-<img width="1023" height="175" alt="image" src="https://github.com/user-attachments/assets/520def1d-dee9-4822-afc5-b95574915024" />
+<img width="1291" height="274" alt="image" src="https://github.com/user-attachments/assets/81d581e0-b1c5-4509-b91d-eda9e4f5cfa9" />
 
+<img width="238" height="67" alt="image" src="https://github.com/user-attachments/assets/92e7eef8-7ae1-43d1-aa1a-b7083b5c2705" />
 
-<img width="995" height="177" alt="image" src="https://github.com/user-attachments/assets/c0e5cb84-6dac-4742-a232-6eb405f6367d" />
+<img width="211" height="54" alt="image" src="https://github.com/user-attachments/assets/d0177597-7746-4d49-ac1f-41a0250a5944" />
 
-
-
-<img width="541" height="65" alt="image" src="https://github.com/user-attachments/assets/da0e9a6d-d5d7-45aa-8183-ff01009533ac" />
-
-
-<img width="1026" height="104" alt="image" src="https://github.com/user-attachments/assets/ae9f1638-f5ec-477b-8fc0-1bf7c87dcd08" />
+![Uploading image.png…]()
 
 
-<img width="1080" height="620" alt="image" src="https://github.com/user-attachments/assets/136e4194-8dd0-4a01-8c59-239dab61ce95" />
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
