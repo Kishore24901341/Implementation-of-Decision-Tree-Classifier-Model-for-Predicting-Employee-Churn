@@ -95,7 +95,6 @@ RegisterNumber:  212224240077
 
 <img width="211" height="54" alt="image" src="https://github.com/user-attachments/assets/d0177597-7746-4d49-ac1f-41a0250a5944" />
 
-![Uploading image.png…]()
 
 
 
